@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Favourite Books</string>
+    <string name="book_cover">Book Cover</string>
+    <string name="delete_first_time">Delete First Time</string>
+</resources>
